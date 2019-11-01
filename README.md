@@ -29,6 +29,10 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
+## Known  Issues
+The API is currently set up to return 10 data points, this is should be refactored to that a parameter can be passed to extend the amount search points returned
+
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
